@@ -87,7 +87,7 @@ The next line is actually one line, divided into multiple lines. It will go thro
 <img src="https://i.imgur.com/2hpo8FG.png" height="80%" width="80%" alt="ActiveDirectory_PowerShell"/>
 <br />
 <br />
-Filling out the first and last name, user longon name:  <br/>
+Filling out the first and last name, user logon name:  <br/>
 <img src="https://i.imgur.com/HHqyLUp.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
 <br />
 <br />
